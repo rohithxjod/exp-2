@@ -11,11 +11,8 @@
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
-
-
 ## Tabulation
 ![WhatsApp Image 2025-12-02 at 12 57 04_443f641d](https://github.com/user-attachments/assets/03d9fc24-ad37-4237-af07-1bb9db8ce192)
-
 ## Graph
 ![WhatsApp Image 2025-12-02 at 12 57 04_7522f76e](https://github.com/user-attachments/assets/9681dd52-e7c0-4aa9-84e5-58c8779d5a53)
 
